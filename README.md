@@ -1,1 +1,7 @@
-# bookshelf
+# Bookshelf 
+
+## Prerequisites
+
+- Erlang
+
+- RabbitMQ
